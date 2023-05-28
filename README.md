@@ -11,4 +11,4 @@ GitHub stats:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vegardmaao&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
-
+(kudos to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and user [filiptronicek](https://github.com/filiptronicek/filiptronicek/tree/master) for code and inspo  to readme file)
