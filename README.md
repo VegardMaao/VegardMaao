@@ -11,8 +11,9 @@ GitHub stats:
 
 (kudos to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and user [filiptronicek](https://github.com/filiptronicek/filiptronicek/tree/master) for code and inspo to readme file)
 
+<details>
 <summary>
-  More about me
+  More
   </summary>
   
   ## My skills:
@@ -22,4 +23,12 @@ GitHub stats:
   - WordPress,  REST API 
 
 ### Design
-- 
+  - Mobile First Design
+  - Adobe XD
+  - InVision
+
+### Other
+  - Experience as a customer care consultant, which has given me unique insight into end user frustrations and how to avoid them 
+
+  
+  </details>
