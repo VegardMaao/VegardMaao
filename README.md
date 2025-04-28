@@ -1,5 +1,5 @@
 # Vegard Maaø
-I am a Front-End Developer in learning at Noroff School of Technology and Digital Media, doing my best to be the best dev I can become. 
+I am a Front-End Developer from Trondheim, Norway. 
 
 For a summary of my latest and most relevant projects, please have a look at this site:
 https://vegardmaao-portfolio.netlify.app/
@@ -18,9 +18,11 @@ GitHub stats:
   
   ## My skills:
   ### Web Technologies
+  - TypeScript
+  - React
   - JavaScript
   - HTML, CSS
-  - WordPress,  REST API 
+  - WordPress,  REST API
 
 ### Design
   - Mobile First Design
